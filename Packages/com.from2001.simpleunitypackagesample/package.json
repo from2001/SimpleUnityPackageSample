@@ -1,0 +1,15 @@
+{
+    "name": "com.from2001.simpleunitypackagesample",
+    "version": "0.0.1",
+    "displayName": "Simple Unity Package Sample",
+    "description": "This is a simple sample project of Unity package",
+    "unity": "2022.1",
+    "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "3.2.1"
+    },
+    "author": {
+        "name": "Masahiro Yamaguchi",
+        "email": "masa@styly.inc",
+        "url": "https://github.com/from2001"
+    }
+}

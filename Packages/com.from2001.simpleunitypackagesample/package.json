@@ -11,5 +11,12 @@
         "name": "Masahiro Yamaguchi",
         "email": "masa@styly.inc",
         "url": "https://github.com/from2001"
-    }
+    },
+    "samples": [
+        {
+            "displayName": "Rotation Cube Sample",
+            "description": "This is a sample of rotation cube",
+            "path": "Samples~/RotateCube"
+        }
+    ]
 }
